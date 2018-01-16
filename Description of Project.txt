@@ -1,0 +1,1 @@
+My project is about that when you go to someplace, mabe you want to remember where it is. When this happened, just click "Add place" button to save that place. So that, you can reach to this place whenever you want.
